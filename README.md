@@ -1,1 +1,1 @@
-# This is our user directory for the server side. For the privacy of our users we encrypt the user ids
+# This is our user directory which is no longer used as it was just used for testing and now we are working on an API for release.
