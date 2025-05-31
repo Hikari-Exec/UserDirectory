@@ -1,1 +1,1 @@
-# This is our user directory which is no longer used as it was just used for testing and now we are working on an API for release.
+# This will be used until our API, is done and running (let us know if you can make/host us it !!! )
